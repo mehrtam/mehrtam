@@ -1,4 +1,4 @@
-# Hi, I'm Fateme (Mehrta) Eslami 👋
+# Hi, I'm Fateme Eslami 👋
 
 AI Research Engineer working at the intersection of **multimodal perception, real-time systems, and human–AI interaction**.
 
