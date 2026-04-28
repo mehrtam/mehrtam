@@ -2,7 +2,7 @@
 
 AI Research Engineer working at the intersection of **multimodal perception, real-time systems, and human–AI interaction**.
 
-Currently splitting time between **Specifica** (deep learning for medical imaging and computer-assisted surgery, in C++), the **University of Birmingham VR Lab** (gaze, hand tracking, and behavioural decoding for typing and slide interaction), and a **Google-funded research collaboration** on multimodal cognitive-state inference. MSc in Artificial Intelligence, Birmingham, 2026.
+Currently splitting time between **Specifica** (deep learning for medical imaging and computer-assisted surgery, in C++), the **University of Birmingham VR Lab** (gaze, hand tracking, and behavioural decoding for typing and slide interaction), and a **Google-funded research collaboration** on multimodal cognitive-state inference. MSc in Artificial Intelligence, Birmingham, 2024 - 2025.
 
 ## What I work on
 
